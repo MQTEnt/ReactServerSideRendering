@@ -1,0 +1,19 @@
+.PokeCard{
+	background-color: #fff;
+	padding: 35px;
+	margin-top: 15px;
+	text-align: center;
+
+	flex-flow: 1;
+	flex-basis: 0;
+	flex: 0 0 20%;
+	margin: 1%;
+}
+
+.PokeCard h3{
+	font-size: 1.55em;
+}
+
+.PokeCard img{
+	width: 50%;
+}
